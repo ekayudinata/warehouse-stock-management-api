@@ -1,0 +1,16 @@
+/node_modules
+/vendor
+.git
+.gitignore
+.env
+.dockerignore
+Dockerfile
+docker-compose.yml
+README.md
+/.github
+/.idea
+/.vscode
+*.md
+*.log
+*.sqlite
+*.sqlite-journal
